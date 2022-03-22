@@ -1,0 +1,5 @@
+build
+.next
+.husky
+coverage
+.vscode
