@@ -1,7 +1,7 @@
 {
-	"name": "next-with-teplscch",
+	"name": "next-with-teplscch-jest-extended",
 	"version": "1.0.0",
-	"description": "Next.js example with typescript, eslint, prettier, lint-staged, commitlint, commitizen, husky, jest and testing-library",
+	"description": "Next.js example with typescript, eslint, prettier, lint-staged, commitlint, commitizen, husky, jest, testing-library and more",
 	"main": "index.js",
 	"author": "Thiago Nascimento <thiag.g3@gmail.com>",
 	"license": "MIT",
