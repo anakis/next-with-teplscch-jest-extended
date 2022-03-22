@@ -1,7 +1,3 @@
-function IndexPage() {
-    return (
-        <h1>Hello Next.js 👾</h1>
-    )
-}
+const IndexPage = () => <h1>Hello Next.js 👾</h1>;
 
-export default IndexPage
+export default IndexPage;
